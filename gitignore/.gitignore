@@ -1,6 +1,6 @@
 ```python
 # Adding config.py file.
-/.gitignore
+/gitignore
 ```
 # Byte-compiled / optimized / DLL files
 __pycache__/
