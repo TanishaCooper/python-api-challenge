@@ -1,7 +1,7 @@
 ```python
 # Adding config.py file.
-api_keys.py,
-API_practice.ipynb,
+api_keys.py
+API_practice.ipynb
 random_numbers.ipynb
 ```
 # Byte-compiled / optimized / DLL files
