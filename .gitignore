@@ -2,6 +2,9 @@
 # Adding config.py file.
 /gitignore
 ```
+api_keys.py
+api_practice.ipynb
+random_numbers.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
