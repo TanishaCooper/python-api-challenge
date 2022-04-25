@@ -5,7 +5,7 @@
 api_keys.py
 api_practice.ipynb
 random_numbers.ipynb
-api_keys_vacation.py
+/VactionPy/api_keys_vacation.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
