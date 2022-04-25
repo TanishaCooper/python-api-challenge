@@ -3,6 +3,8 @@
 /gitignore
 ```
 api_keys.py
+/WeatherPy/api_keys
+/VacationPy/api_keys
 api_practice.ipynb
 random_numbers.ipynb
 /VacationPy/api_keys_vacation.py
